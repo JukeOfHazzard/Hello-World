@@ -7,7 +7,7 @@ My software simply displays the words "Hello World" in the terminal for the user
 
 The Software I made was to see if I can edit repositories in GitHub.
 
-**YouTube link**
+**YouTube link:**
 [GitHubWorld](https://youtu.be/YQIzrFnPnDI)
 
 ## Development Environment
@@ -16,7 +16,7 @@ The Software I made was to see if I can edit repositories in GitHub.
 * Git / GitHub 
 
 Python is a very user friendly code that is easy to use, read, and understand. The following is how it was done:
-1. Make the Python code to display "Hello World"
+1. Make the Python code to display "Hello World".
         Uses `print("Hello World")` which is using python language
 2. Then press the green triangle at near the top right hand part of the application to run the code
 3. The result should be displayed in the terminal on the botto of the application screen
@@ -27,3 +27,4 @@ GitHub will allow me to share my work with other people and edit codes of others
 
 ## Useful Websites
 * [How to Mark a ReadMe file](https://www.markdownguide.org/cheat-sheet/)
+* [Making a YouTube Video](https://support.google.com/youtube/answer/57407)
